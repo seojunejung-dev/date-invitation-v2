@@ -51,7 +51,7 @@ export default function SummaryPage() {
           </h1>
 
           <p className="mt-2 text-gray-500">
-            Here's our perfect plan 💕
+            Here&apos;s our perfect plan 💕
           </p>
 
         </div>
@@ -98,7 +98,7 @@ export default function SummaryPage() {
         <div className="mt-10 rounded-2xl bg-gradient-to-r from-pink-400 to-rose-400 p-6 text-center text-white">
 
           <h2 className="text-2xl font-bold">
-            I can't wait to see you ❤️
+            I can&apos;t wait to see you ❤️
           </h2>
 
           <p className="mt-2">
