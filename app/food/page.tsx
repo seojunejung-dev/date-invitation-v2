@@ -27,7 +27,7 @@ export default function FoodPage() {
         </h1>
 
         <p className="mt-2 text-center text-gray-500">
-          Pick what you'd like to eat together ❤️
+          Pick what you&apos;d like to eat together ❤️
         </p>
 
         <div className="mt-8 space-y-5">

@@ -86,7 +86,7 @@ export default function ActivityPage() {
                   </h2>
 
                   <p className="mt-1 text-sm text-gray-500">
-                    Let's make wonderful memories ❤️
+                    Let&apos;s make wonderful memories ❤️
                   </p>
 
                 </div>
